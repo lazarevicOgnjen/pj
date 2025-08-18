@@ -52,7 +52,7 @@ try:
     width = responseT.size['width']
 
     
-    desired_width = max(width, 12000)  
+    desired_width = max(width, 1200)  
 
     desired_height = min(height, 10000)
 
