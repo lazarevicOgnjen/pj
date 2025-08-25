@@ -91,6 +91,8 @@ Folder
 
 
 Blanketi
+Java 2025 - zadaci za vežbu
+File
 Blanketi (pismeni deo ispita) 2020
 File
 Stariji kolokvijumi (samo tekst)
