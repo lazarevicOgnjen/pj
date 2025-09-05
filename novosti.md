@@ -1,6 +1,11 @@
 Advanced search...
 Forums
-Search results: 2
+Search results: 3
+Obaveštenja -> Usmeni deo ispita - januarski rok 2025.
+by Nikola Đorđević - Friday, 5 September 2025, 3:35 PM
+Usmeni deo ispita će biti održan u ponedeljak, 08.09.2025, od 12č u amfiteatru A1.
+Permalink
+See this post in context
 Obaveštenja -> Poeni iz Jave - Januar 2025
 by Martin Jovanović - Friday, 5 September 2025, 2:15 AM
 U prilogu su poeni za Javu u januarskom roku 2025. Ko želi da pogleda rad neka mi se javi mejlom.
